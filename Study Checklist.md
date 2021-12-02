@@ -1,0 +1,27 @@
+# Study Checklist
+
+- [x] Draw [[The Sketch]]
+- [x] Derive the equations of motion
+- [x] [[Derive exponential atmosphere]]
+- [x] Derive for [[Ballistic Flight|ballistic flight]]:
+	- [x] Derive $V/V_E$
+	- [x] Derive $\bar{a}_{max}$
+	- [x] Derive $h_{a_{max}}$
+	- [x] Derive max heat flux
+- [ ] Derive for gliding flight:
+	- [ ] Derive $V/V_E$
+	- [ ] Derive $\bar{\gamma}$
+	- [ ] Derive $R_f/R_e$
+	- [ ] Derive $t_{flight}$
+	- [ ] Derive $\bar{a}_{max}$
+	- [ ] Derive $h_{a_{max}}$
+	- [ ] Derive max heat flux
+- [ ] Derive for skipping flight:
+	- [ ] Derive $V/V_E$
+	- [ ] Derive $V_F/V_E$
+	- [ ] Derive $\bar{a}_{max}$
+	- [ ] Derive $h_{a_{max}}$
+	- [ ] Derive max heat flux
+- [ ] Draw [[Parachute Sketch]]
+- [ ] Derive $V_{landing}$ for parachute landing
+- [ ] 
